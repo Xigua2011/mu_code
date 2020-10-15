@@ -1,0 +1,5 @@
+g = input('enter a number')
+g = int(g)
+b = input('enter a number')
+b = int(b)
+print(g, "times ",b," is", g*b)
